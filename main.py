@@ -37,5 +37,4 @@ venda4.adicionar_item(produto2, 2)
 print(venda4)
 
 
-# Quantidade total de vendas
 print("\nQuantidade de vendas criadas:", Venda.get_total_vendas())
